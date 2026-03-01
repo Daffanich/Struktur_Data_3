@@ -1,0 +1,16 @@
+JAVA
+
+1. saya ingin membuat program java untuk simulasi teks berjalan berita seperti di televisi menggunakan circular doubly linked list dengan fitur insert di akhir, hapus berdasarkan nomor urut, tampil forward dan backward dengan delay 3 detik, tampil tertentu, dan exit, apakah spesifikasi ini sudah tepat dan jelas
+2. tolong jelaskan kembali konsep circular doubly linked list dan mengapa struktur ini cocok untuk kebutuhan traversal forward dan backward pada program berita tersebut.
+3. bantu saya membuat kerangka class node dan circular doubly linked list beserta method insert, delete, tampil forward, tampil backward, dan tampil tertentu sesuai spesifikasi.
+4. tolong tambahkan menu interaktif menggunakan scanner dengan pilihan insert, hapus, forward, backward, tampil tertentu, dan exit yang berjalan dalam loop.
+5. tambahkan validasi input agar program tidak crash ketika user memasukkan input yang tidak sesuai tipe data.
+6. bantu saya membuat dokumentasi singkat mengenai cara compile, menjalankan program, serta contoh input dan output.
+
+PYTHON
+
+1. saya ingin membuat program python dengan spesifikasi yang sama yaitu simulasi teks berjalan berita menggunakan circular doubly linked list dengan fitur insert di akhir, hapus berdasarkan nomor urut, forward dan backward dengan delay 3 detik, tampil tertentu, dan exit, apakah strukturnya sudah sesuai.
+2. tolong jelaskan kembali konsep circular doubly linked list dalam python dan bagaimana referensi next dan prev bekerja dalam struktur yang bersifat circular.
+3. bantu saya membuat class node dan class circular doubly linked list lengkap dengan method insert di akhir, delete berdasarkan posisi, tampil_forward dengan time.sleep(3), tampil_backward, dan tampil_tertentu.
+4. tambahkan menu interaktif menggunakan while true dengan pilihan insert, hapus, forward, backward, tampil tertentu, dan exit yang berjalan sampai user memilih keluar
+5. tambahkan validasi input sederhana agar program tidak berhenti jika user salah memasukkan tipe data, lalu buat dokumentasi singkat cara menjalankan serta contoh input dan outputnya
