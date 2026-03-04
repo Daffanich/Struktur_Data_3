@@ -35,7 +35,7 @@ README.md: Dokumentasi tugas.
 Demo Program
 Anda dapat melihat simulasi dan penjelasan cara kerja program melalui tautan video berikut:
 
-Link Video:
+Link Video:https://youtu.be/e0MswBqvHaY?si=AV_jHrEdiv78sOUt
 
 Penggunaan AI
 Program ini dikembangkan dengan bantuan asisten AI untuk optimasi logika struktur data.
